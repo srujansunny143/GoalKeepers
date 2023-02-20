@@ -8,3 +8,7 @@ git config --global user.name
 
 git config --global user.name "srujansunny143"
 git config --global user.email "srujan.sunnykeys01@gmail.com"
+
+Procfile
+
+gunicorn
